@@ -1,0 +1,5 @@
+# The ignore list for Stone-Paper-Scissors game
+
+# Ignoring the python cache folders and other waste folders
+__pycache__/
+tests/
